@@ -1,0 +1,2 @@
+# Central-Taiwan-Attractions
+使用Android studio進行中台灣景點的介紹,使用了Google Map Place Api獲得景點編號,再使用Firebase Cloud firestore進行台灣中部地區的分類以及景點編號的儲存,用了RecycleView顯示資料跟篩選功能,最後做了語音功能,使用者可以通過說話進行操控。
